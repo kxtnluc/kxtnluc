@@ -1,5 +1,3 @@
-![My project logo](assets/logo.png)
-
 ## Luc Juneau - Software Developer
 
 Hi, I'm Luc Juneau. I am a Full Stack Software Developer, and proud local of Knoxville, Tennessee. 
